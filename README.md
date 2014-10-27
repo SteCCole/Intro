@@ -9,3 +9,6 @@ No idea what that is
 
 
 ### A note about myself,, this is my firsttime with GITHUB yeyyyyyy!!!! ###
+
+
+attempt to apply fixes #3
